@@ -1,0 +1,12 @@
+package-lock.json
+*.lock
+*node_modules/*
+orbitdb/*
+mydb/*
+experiment/*
+secrets.js
+node_modules/
+.env
+*.swp
+eth/.env
+ecosystem.config.js
